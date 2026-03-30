@@ -13,7 +13,5 @@ public class AuthDto {
     private String password;
     private String role;
 
-    public AuthDto(Long id, String username, String password) {
-    }
 }
 
